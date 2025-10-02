@@ -1,0 +1,6 @@
+projectKey=SecureKey
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=SecureKey
+ceTaskId=79ef5879-1324-49c4-b78b-a8adecec6c8e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=79ef5879-1324-49c4-b78b-a8adecec6c8e
