@@ -149,4 +149,3 @@ npm run build
 
 ---
 
-**Built with ❤️ for secure password management**
